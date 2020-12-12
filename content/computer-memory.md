@@ -1,7 +1,7 @@
 +++
 title = "A Primer on Computer Memory"
 weight = 0
-date = 2020-12-01
+date = 2020-12-12
 
 [taxonomies]
 tags = ["systems"]
