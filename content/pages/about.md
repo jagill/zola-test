@@ -12,8 +12,8 @@ benefit, other people have found these articles helped them understand!
 
 I write these guides for the
 "[Journeyman](https://en.wikipedia.org/wiki/Journeyman)" audience: people who
-know how and why to use a tool, but want a deeper understanding about a
-particular aspect.  Developing a mental model of how a tool works (even
+know how and why to use something, but want a deeper understanding about a
+particular aspect. Developing a mental model of how a tool works (even
 simplified!) allows one to reason through novel scenarios and find more
 effective and efficient solutions. In these articles, I'll explore aspects of
 some tools I use, building up these types of mental models.
