@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://jagill.github.io/zola-test/sitemap.xml
