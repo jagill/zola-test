@@ -22,5 +22,5 @@ You can also find me on Github ([![GitHubUser] jagill](https://github.com/jagill
 and LinkedIn ([![LinkedIn] jagill](https://www.linkedin.com/in/jagill/))
 
 
-[GitHubUser]: /GitHub-Mark-64px.png
-[LinkedIn]: /LinkedIn.svg
+[GitHubUser]: /zola-test/GitHub-Mark-64px.png
+[LinkedIn]: /zola-test/LinkedIn.svg

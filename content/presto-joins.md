@@ -221,9 +221,8 @@ JOIN table3 ON table1.a = table3.a
 Presto will do the joins one at a time.  First `table1` with `table2`, then the
 resultant table with `table3`, and so on.
 
-[Presto Overview]: /presto-overview "Presto Overview"
-[Presto Map-Reduce]: /presto-map-reduce "Presto Map-Reduce"
-[Presto Joins]: /presto-joins "Presto Joins"
-[Presto Connectors]: /presto-connectors "Presto Connectors"
-[Presto Data-Flow]: /presto-data-flow "Presto Data Flow"
-[GitHubUser]: /GitHub-Mark-64px.png
+[Presto Overview]: @/presto-overview.md "Presto Overview"
+[Presto Map-Reduce]: @/presto-map-reduce.md "Presto Map-Reduce"
+[Presto Joins]: @/presto-joins.md "Presto Joins"
+[Presto Connectors]: @/presto-connectors.md "Presto Connectors"
+[Presto Data-Flow]: @/presto-data-flow.md "Presto Data Flow"
